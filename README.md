@@ -84,6 +84,7 @@ ptxt 1 1 1 1 1 ----<>---------
 ptxt 1 1 1 1 1 ---------------
 endp_ ;NOTHING
 guide_exit
+```
 ## Person
 ```
 ptxt 1 1 1 1 1 -o
@@ -97,8 +98,8 @@ guide_exit
 ptxt 1 1 1 1 1 ---/|
 ptxt 1 1 1 1 1 --/-|
 ptxt 1 1 1 1 1 -/--|
-ptxt 1 1 1 1 1 /___|
-endp_ ;NOTHING
+ptxt 1 1 1 1 1 /---|
+endpage
 guide_exit
 ```
 # END OF README!

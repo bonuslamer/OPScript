@@ -73,6 +73,12 @@ guide_exit
 5. You are now finished making an art.
 6. Drag and drop `game.ops` into `opscriptlauncher.bat`
 7. There you have it! Enjoy :D
+## sizemodify
+Modifiying the size of the script file.
+```
+sizemodify
+```
+Edit `size.bat` to modify the size of your script file.
 # Fun stuff.
 ## Firework in opscript.
 ```

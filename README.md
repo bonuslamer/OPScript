@@ -1,7 +1,7 @@
 # OPScript
 ![opscript](https://user-images.githubusercontent.com/68444929/176164417-a610887b-f4b3-4866-bacb-a3793730f860.png)
 
-OPScript, language I made in batch.
+OPScript, language I made in batch (yoidog).
 
 # Usage
 ## Drag and drop a .ops file into `opscriptlauncher.bat`
